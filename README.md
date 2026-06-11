@@ -1,2 +1,2 @@
-# jos-papaleguas
+# jose-papaleguas
 eu sou lindo
